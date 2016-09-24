@@ -1,0 +1,15 @@
+main:
+    pattern: /
+    package: main
+flower:
+  pattern: /flower
+  package: flower
+todolist:
+  pattern: /todolist
+  package: todolist
+ks2e:
+  pattern: /ks2e
+  package: ks2e
+coffee:
+  pattern: /coffee
+  package: coffee

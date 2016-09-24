@@ -1,0 +1,3 @@
+listview:
+  pattern: /listview
+  controller: listView

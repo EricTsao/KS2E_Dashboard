@@ -1,0 +1,3 @@
+mocha:
+    pattern: /mocha
+    controller: mocha

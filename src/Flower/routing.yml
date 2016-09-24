@@ -1,0 +1,6 @@
+sakura:
+  pattern: /sakura
+  controller: sakura
+rose:
+  pattern: /rose
+  controller: rose

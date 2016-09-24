@@ -1,0 +1,6 @@
+dashboard:
+  pattern: /dashboard
+  controller: dashboard
+analysis:
+  pattern: /analysis
+  controller: analysis
